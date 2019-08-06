@@ -1,0 +1,21 @@
+h2 {
+  display: block;
+  text-align: center;
+  padding: 48px 0;
+  font-weight: 700;
+  font-size: 49px;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1.42px;
+}
+
+.comments__section-title {
+  padding-top: 28px;
+  padding-bottom: 30px;
+}
+
+.last-news__section-title {
+  text-align: left;
+  padding-top: 0px;
+  padding-bottom: 5px;
+}

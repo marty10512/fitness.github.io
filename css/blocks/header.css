@@ -1,0 +1,13 @@
+.header {
+  background: #131415;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 9px;
+}
+
+.header__container {
+  justify-content: space-between;
+}
+
+
+

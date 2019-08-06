@@ -1,0 +1,17 @@
+.last-news{
+  margin: auto;
+}
+
+.last-news__list{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.last-news__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.last-news__section-list {
+  width: 74%;
+}

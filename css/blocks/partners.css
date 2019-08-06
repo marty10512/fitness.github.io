@@ -1,0 +1,33 @@
+.partners__list-container {
+  margin-top: 52px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.partners__item {
+  min-height: 64px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.partners__link {
+  filter: grayscale(100);
+  transition: 0.3s;
+}
+
+.partners__link:hover {
+  filter: grayscale(0);
+}
+
+.partnes-title {
+  width: 100%;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1.7px;
+  text-align: center;
+  margin-top: 28px;
+}

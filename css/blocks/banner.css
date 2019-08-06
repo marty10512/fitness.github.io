@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  width: 75%;
+}
+
+.banner__pic {
+  display: block;
+  margin: auto;
+}
+
+.banner__item {
+  margin-left: 20px;
+}
+
+.infomation__container {
+ justify-content: space-between;
+}

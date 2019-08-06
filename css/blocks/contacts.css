@@ -1,0 +1,23 @@
+.contacts {
+  margin-top: 8px;
+  float: right;
+  text-align: right;
+  font-style: normal;
+}
+
+.contacts__phone {
+  color: inherit;
+  text-decoration: none;
+  display:block;
+  font-weight: 700;
+  font-size: 21px;
+}
+
+.contacts__work-schedule {
+  color: #bf7314;
+  opacity: 0.7;
+  display: block;
+  font-weight: 700;
+  text-decoration: underline;
+  font-size: 14px;
+}

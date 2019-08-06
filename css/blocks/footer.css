@@ -1,0 +1,30 @@
+.footer__container{
+  justify-content: space-between;
+}
+
+.footer {
+  color: #fff;
+  background: #131415;
+}
+
+.footer__text {
+  flex: 1;
+  line-height: 16px;
+}
+
+.footer__text--left {
+  text-align: left;
+  white-space: pre-line;
+  font-size: 14px;
+}
+
+.footer__text--left p{
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.loftschool,.loftschool:visited, .author {
+  font-weight: 700;
+  color: #fff;
+}
+

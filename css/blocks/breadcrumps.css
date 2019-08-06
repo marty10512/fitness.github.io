@@ -1,0 +1,32 @@
+.breadcrumps {
+  padding-top: 28px;
+}
+
+.breacrumps__list {
+  text-align: left;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.breadcrumps__item {
+  display: inline-block;
+}
+
+.breadcrumps__link {
+  text-decoration: none;
+  color: #f89513;
+  text-decoration: underline;
+}
+
+.breadcrumps__link:hover {
+  text-decoration: underline;
+  color: #f9aa42;
+}
+
+.breadcrumps__link--unactive {
+  color:#4e4c4c;
+  pointer-events: none;
+  text-decoration: none;
+}

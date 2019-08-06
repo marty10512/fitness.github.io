@@ -1,0 +1,22 @@
+.info {
+  margin-top: 57px;
+  height: 437px;
+  width: 274px;
+  background-image: url(../../img/body/info-background.png);
+}
+
+.info__text p {
+  padding: 28px 22px; 
+  color: #fff;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.info__text-link {
+  text-decoration: none;
+  color: #f89513;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+}

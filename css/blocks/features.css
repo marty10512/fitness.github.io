@@ -1,0 +1,44 @@
+.features {
+  margin-top: 16px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.features-title {
+  margin-top: 24px;
+  line-height: 21px;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.features__title {
+  margin-top: 13px;
+  font-weight: 800;
+  font-size: 10.78px;
+  line-height: 37.38px;
+  letter-spacing: 3px;
+}
+
+.features__text {
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.features_proof {
+  font-size: 17px;
+  line-height: 36px;
+  text-align: left;
+  list-style-type: disc;
+  margin-top: 4px;
+  margin-left: 25px;
+  margin-bottom: 32px;
+}
+
+.features_proof li {
+  list-style: disc;
+}
